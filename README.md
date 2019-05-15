@@ -1,5 +1,6 @@
 # MyCode
 ### Vue.js
+###### npm run dev(Debug代码)
 1. 链接Git
 2. 安装CLI脚手架
 3. 初始化reset.css文档
