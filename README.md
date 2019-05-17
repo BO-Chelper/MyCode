@@ -9,3 +9,7 @@
 6. 根据需求删除原有的Home，改成pages，放在src目录下
 7. 在home下面建立components文件夹，页面组件化.
 8. components组件里面建Header等文件。
+### Git
+1. git add .
+2. git commit -m 'project init'
+3. git push
